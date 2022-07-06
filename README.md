@@ -1,2 +1,2 @@
-[![Bonbon315's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonbon315)](https://github.com/anuraghazra/github-readme-stats)
+[![Bonbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonbon315)](https://github.com/anuraghazra/github-readme-stats)
 
